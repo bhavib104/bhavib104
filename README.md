@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hey, I’m Bhavi
 
-<!--
-**bhavib104/bhavib104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Computer Science student at MIT-WPU passionate about Data Analytics, Machine Learning, and Product Analytics.
 
-Here are some ideas to get you started:
+## Tech Stack
+- Python
+- SQL
+- Tableau
+- React.js
+- Power BI
+- AWS
+- Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Working On
+- Product Analytics Dashboards
+- Churn Prediction Systems
+- AI-powered Applications
+- Research on Memory Retention Modeling
+
+## Connect With Me
+- LinkedIn: www.linkedin.com/in/bhavi-bhatt-7565b42a7
+- GitHub: github.com/bhavib104
