@@ -8,8 +8,8 @@ I’m a Computer Science student at MIT-WPU passionate about Data Analytics, Mac
 - Tableau
 - React.js
 - Power BI
-- AWS
 - Machine Learning
+- AWS
 
 ## Currently Working On
 - Product Analytics Dashboards
